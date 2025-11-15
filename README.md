@@ -1,5 +1,7 @@
-# NeuralNetworkProject
+# PersonalityPrediction
 ---
+
+This is a project from STAT 705 - Regression and Analysis of Variance. It involved extracting and cleaning of publicly available personality data from a psychology study and performing at first a linear regression and later a ridge regression for predicting the personality of a student. The aim of the project was to exercise the utility of a linear regression on a non-linear dataset, and determine other models that would be better suited for prediction, such as the ridge regression.
 
 Dataset: https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data/data
 
